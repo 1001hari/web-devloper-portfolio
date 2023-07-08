@@ -143,6 +143,7 @@ nav a {
 
 /* about us section styles */
 
+
 .about {
     border-radius: 10px;
     background: #FFF8F3;
@@ -174,10 +175,36 @@ nav a {
     text-align: center;
 
     font-size: 20px;
-    
+
     font-weight: 400;
     line-height: 30px;
 
     display: flex;
     justify-content: space-between;
+}
+
+/* What i do section */
+
+.what{
+    text-align: center;
+    margin:30px 350px;
+}
+.header-what {
+    color: #181818;
+    text-align: center;
+
+    font-size: 35px;
+
+    font-weight: 700;
+
+}
+
+.what-para {
+    color: #757575;
+    text-align: center;
+    
+    font-size: 18px;
+    
+    font-weight: 400;
+
 }
